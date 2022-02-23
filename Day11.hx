@@ -89,7 +89,6 @@ class Day11 {
                 }
             }
             step +=1;
-            trace(flashed.length);
         }
         return step;
     }
